@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdio.h": "c"
+    },
+    "terminal.integrated.setLocaleVariables": true,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "python.pythonPath": "C:\\Program Files\\Python38\\python.exe",
+    // "terminal.integrated.shellArgs.windows": ["-NoExit", "/c", "chcp 65001"],
+    "editor.fontSize": 18,
+}

@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-browser-dev-150939-authRole",
+            "UnauthRoleArn": "arn:aws:iam::634952691931:role/amplify-browser-dev-150939-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::634952691931:role/amplify-browser-dev-150939-authRole",
+            "Region": "ap-northeast-2",
+            "DeploymentBucketName": "amplify-browser-dev-150939-deployment",
+            "UnauthRoleName": "amplify-browser-dev-150939-unauthRole",
+            "StackName": "amplify-browser-dev-150939",
+            "StackId": "arn:aws:cloudformation:ap-northeast-2:634952691931:stack/amplify-browser-dev-150939/e4ea75b0-e82b-11ea-b645-0aa6c7749250",
+            "AmplifyAppId": "d23tokmslzl9ua"
+        }
+    }
+}
